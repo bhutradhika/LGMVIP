@@ -63,7 +63,3 @@ app.post("/failure", function(req, res) {
 app.listen(process.env.PORT || 3000, function() {
   console.log("Server is running.");
 });
-
-
-// API Key: d45933c47e262c6fc0fc7cf45c0ce875-us6
-// List ID: 473da93472
